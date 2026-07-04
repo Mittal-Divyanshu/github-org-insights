@@ -98,6 +98,14 @@ refetchRepos();
 );
 
 }
+if (!org || !repos) {
+    return (
+        <ErrorMessage
+            title="No Data Available"
+            message="Unable to load organization data."
+        />
+    );
+}
 
     return (
   <Layout>
