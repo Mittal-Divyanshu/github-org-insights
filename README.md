@@ -6,6 +6,9 @@ The application analyzes an entire GitHub organization and provides meaningful i
 
 ---
 
+#Deployed Link->To use on your device go to 
+https://github-org-insights.vercel.app/
+
 ## Features
 
 ### Organization Overview
@@ -57,7 +60,7 @@ The application analyzes an entire GitHub organization and provides meaningful i
 Clone the repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Mittal-Divyanshu/github-org-insights
 ```
 
 Go to project folder
